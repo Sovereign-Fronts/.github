@@ -23,6 +23,8 @@ no.
 Possibly at some point, although this is not one of my main goals in the current moment.
 ### Can one contribute?
 Yes! Anyone is welcome to contributing following the issues template. I myself am not a particularly good programmer, so I welcome any improvements.
+### Why is the project open-source?
+Because I know that at some point I will abandon the project. I want to leave it in a playable state, where people don't depend on me to play, but rather can host and iterate on everything themselves if they so wish to.
 ### How long do you plan to keep development?
 One thing I wish to avoid, at least on paper, is constantly updating the server software, leaving no room for a stable moddable version. This happens a lot in other games, causing modders to stay on a specific old version, understandably refusing to update the mod for every single api change a game updates to. Therefore I only plan to update so many times until I deem that the server is good enough to use and that the mod api is extensive enough.
 ### Why are you planning to implement an auth system?
