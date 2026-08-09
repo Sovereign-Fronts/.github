@@ -18,7 +18,7 @@ The current plan is to make mods a basic part of the server. To ensure that the 
 ### Why do you use bun for everything?
 Bun is pretty darn fast
 ### Will you rewrite the server in Rust?
-no.
+no. Although deno is being considered
 ### Will you update the codebase to use Typescript?
 Possibly at some point, although this is not one of my main goals in the current moment.
 ### Can one contribute?
