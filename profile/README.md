@@ -5,7 +5,7 @@ Welcome to Sovereign Fronts, an open-source and completely free real-time grand 
 You can download the Sovereign Fronts client here:
 - Linux, Windows:
 - Android:
-- Visit the web version here
+- Visit the web version instead
 
 You can download the Server here:
 - Cinnamon:
