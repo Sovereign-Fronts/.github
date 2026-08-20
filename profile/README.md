@@ -1,8 +1,13 @@
 ## Welcome
 Welcome to Sovereign Fronts, an open-source and completely free real-time grand strategy game! Sovereign Fronts aims to get rid of the annoying microtransactions that plague many known real-time browser-based grand-strategy games, as well as making it a more customizable experience by featuring integrated modding.
 
-## Current State
-In its current state, Sovereign Fronts is NOT ready to use.
+## Downloads
+You can download the Sovereign Fronts client here:
+- Linux, Windows:
+- Android:
+- Visit the web version here
+You can download the Server here:
+- Cinnamon:
 
 ## Q&A
 ### Why did you make Sovereign Fronts?
