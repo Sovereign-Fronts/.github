@@ -6,6 +6,7 @@ You can download the Sovereign Fronts client here:
 - Linux, Windows:
 - Android:
 - Visit the web version here
+
 You can download the Server here:
 - Cinnamon:
 
